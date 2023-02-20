@@ -1,0 +1,3 @@
+Serenity BDD  - framework that integrates with Selenium WebDriver and other testing frameworks such as JUnit and TestNG, It provides detailed and informative reports for test execution.
+Cucumber  - framework that provides a natural language syntax for test scenarios, allows for collaboration between developers, testers, and business stakeholders. 
+Relative XPath  - is a language for selecting nodes in an XML document or an HTML page, It is used to navigate the elements and attributes of an XML or HTML document and to locate the elements on a web page that needs to be interacted with using Selenium WebDriver.
